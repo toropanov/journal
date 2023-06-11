@@ -16,7 +16,7 @@ Fortunately, I discovered the mas-cli package, which can be located and installe
 
 While I won't provide an exhaustive list of commands, there are a few worth mentioning.
 
-```bash
+``` bash
 $ mas list
 1619602800  Sticky Notes  (1.0.5)
 1508833245  Floating      (44)
@@ -24,7 +24,7 @@ $ mas list
 
 Just look for way you could install app now
 
-```bash
+``` bash
 $ mas lucky twitter
 ==> Downloading Twitter
 ==> Installed Twitter
@@ -32,7 +32,7 @@ $ mas lucky twitter
 
 Or keep all applications up-to-date
 
-```bash
+``` bash
 $ mas upgrade
 Upgrading 2 outdated applications:
 Xcode (7.0), Screens VNC (3.6.7)
