@@ -35,7 +35,7 @@ Or keep all applications up-to-date
 ```bash
 $ mas upgrade
 Upgrading 2 outdated applications:
-Xcode (7.0), Screens VNC - Access Your Computer From Anywhere (3.6.7)
+Xcode (7.0), Screens VNC (3.6.7)
 ==> Downloading Xcode
 ==> Installed Xcode
 ==> Downloading iFlicks
