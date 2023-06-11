@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://journal.toropanov.com
+url: https://journal.toropanov.com
 permalink: :year/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,3 +103,18 @@ theme: leedom
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+breadcrumb:
+  homepage:
+    # Override the default homepage title in breadcrumb.
+    title: Home
+  matrix:
+    - layout: post
+      format:
+        - home
+        - category
+        - title
+    - layout: page
+      format:
+        - home
+        - title

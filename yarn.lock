@@ -581,6 +581,11 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
+hexo-breadcrumb@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/hexo-breadcrumb/-/hexo-breadcrumb-1.0.4.tgz#1a1afa58feecee497bbe2c737af51ac610b6b4f2"
+  integrity sha512-n6+hY4VQ9H5kc5D0JLRa6YT8wnzD7f8m+cfymF7lb0ojOIsF1o1KL/wCA+eFSLfpj35f2SrmUdoAKTUxKsO8+w==
+
 hexo-cli@^4.3.0:
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/hexo-cli/-/hexo-cli-4.3.1.tgz#eb40e0ab2479ea089a9913eb0b1b5d3db58133a3"
