@@ -10,7 +10,7 @@ Our environment and the people we interact with on a daily basis have a signific
 
 The quotation of Richard Tirendi says:
 
-> If you’re the smartest person in the room, you’re in the wrong room.
+> If you’re the smartest person in the room, you’re in the wrong room
 
 The notion lingered in my mind, compelling me to ponder deeply. In hindsight, I realize that several significant failures resulted from my tendency to abandon pursuits prematurely or opt for easier routes, influenced by my surroundings.
 
