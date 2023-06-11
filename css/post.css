@@ -253,6 +253,12 @@ pre .xml .cdata {
 .show-comments a:hover {
   color: #666;
 }
+
+.owl-media {
+  margin: 0 auto;
+  width: fit-content;
+}
+
 @media screen and (max-width: 900px) {
   .post {
     padding-bottom: 80px;
