@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "build": "hexo generate",
+    "add-domain": "echo \"journal.toropanov.com\" > public/CNAME",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
+    "deploy": "yarn add-domain && hexo deploy",
     "server": "hexo server"
   },
   "hexo": {
