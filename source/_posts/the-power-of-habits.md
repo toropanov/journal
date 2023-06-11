@@ -1,7 +1,7 @@
 ---
 title: From Intention to Action! Hello World!
 categories:
-- [motivation]
+- [Motivation]
 ---
 
 For the first post on my blog, I am excited to delve into the transformative power of habits.

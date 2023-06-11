@@ -102,19 +102,6 @@ theme: leedom
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
-
-breadcrumb:
-  homepage:
-    # Override the default homepage title in breadcrumb.
-    title: Home
-  matrix:
-    - layout: post
-      format:
-        - home
-        - category
-        - title
-    - layout: page
-      format:
-        - home
-        - title
+  type: git
+  repo: https://github.com/toropanov/journal
+  branch: gh-pages
