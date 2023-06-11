@@ -18,10 +18,14 @@ Success is not instantaneous; it demands consistent effort and discipline. Habit
 
 > Success is the only motherfucking option, failure is not!
 
-After conducting some research on my personal productivity levels, I discovered that mornings are the most conducive time for me to tackle important tasks. Additionally, there are fewer distractions in the morning, which allows me to concentrate more effectively on my top priorities. As a result, I have resolved to cultivate a new habit of waking up at 7:30 AM by committing to this routine for 21 consecutive days. Upon completion of this three-week period, I anticipate that early rising will enhance my productivity significantly.
+After conducting some research on my personal productivity levels, I discovered that mornings are the most conducive time for me to tackle important tasks. Additionally, there are fewer distractions in the morning, which allows me to concentrate more effectively on my top priorities.
+
+{% owl giphy GF3mIfPAXhVUSXFtkK %}
+
+As a result, I have resolved to cultivate a new habit of waking up at 7:30 AM by committing to this routine for 21 consecutive days. Upon completion of this three-week period, I anticipate that early rising will enhance my productivity significantly.
 
 Robin Sharma's term "Mind over mattress" aptly characterizes the approach I am taking to boost my productivity.
 
 ### What's next?
 
-While future posts on the blog will be primarily focused on web development and Mac OS tips.
+⚡️ While future posts on the blog will be primarily focused on web development and Mac OS tips.
