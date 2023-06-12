@@ -26,7 +26,7 @@ a {
 
 .header {
   letter-spacing: 5px;
-  margin: 0 auto 15px;
+  margin: 0 auto 40px;
   padding: 0 15px;
   text-align: center;
   max-width: 1140px;
@@ -68,7 +68,7 @@ a {
   margin: 50px auto 0;
   padding: 0 15px;
   position: relative;
-  min-height: calc(100vh - 386px);
+  min-height: calc(100vh - 410px);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -81,6 +81,6 @@ a {
   .header_desktop { display: none;}
   .header_mobile { display: block;}
   .main {
-    min-height: calc(100vh - 275px);
+    min-height: calc(100vh - 290px);
   }
 }

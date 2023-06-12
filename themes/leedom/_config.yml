@@ -27,43 +27,20 @@ prevnext:
 
 # 链接信息
 link: 
-  # name: 名称
-  # icon: 图标，目前仅支持IconFont部分图标
-  # path: 地址
-  # target: 跳转方式
-  -
-    # 档案
-    name: archives
-    icon: bookmark
-    path: /archives/
   -
     name: github
     icon: github
-    path: https://github.com/leedom92/hexo-theme-leedom
+    path: https://github.com/toropanov
     target: _blank
   -
     name: email
     icon: envelope
-    path: 
+    path: https://toropanov.com/#contacts
   -
-    name: facebook
-    icon: facebooksquare
-    path:
+    name: linkedin
+    icon: linkedin
+    path: https://www.linkedin.com/in/toropanov
   -
-    name: twitter
-    icon: twitter
-    path:
-  -
-    name: wechat
-    icon: wechat
-    path:
-  -
-    name: weibo
-    icon: weibo
-    path:
-  -
-    # rss需安装 hexo-generator-feed 插件
-    # 具体参照https://github.com/hexojs/hexo-generator-feed
     name: rss
     icon: rss
     path: /atom.xml
