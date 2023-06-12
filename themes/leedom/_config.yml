@@ -71,8 +71,8 @@ link:
 
 footer:
   photo: /images/footer_logo.png
-  alt: Return home
-  path: /
+  alt: Anton Toropanov
+  path: https://toropanov.com
 
 # 文章搜索
 search:
