@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anton Toropanov - Journal</title>
+  
+  
+  <link href="http://journal.toropanov.com/atom.xml" rel="self"/>
+  
+  <link href="http://journal.toropanov.com/"/>
+  <updated>2023-06-12T07:34:35.838Z</updated>
+  <id>http://journal.toropanov.com/</id>
+  
+  <author>
+    <name>Anton Toropanov</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Invisible way to manage OS X Applications</title>
+    <link href="http://journal.toropanov.com/2023/mas-updates/"/>
+    <id>http://journal.toropanov.com/2023/mas-updates/</id>
+    <published>2023-06-12T07:22:40.352Z</published>
+    <updated>2023-06-12T07:34:35.838Z</updated>
+    
+    <content type="html"><![CDATA[<p>I’m not fond of receiving various types of notifications and badges, especially those related to app updates. They tend to disrupt my focus when I’m working or attending to personal tasks.</p><p>Moreover, the process of installing apps from the app store can be quite bothersome due to the overwhelming number of bright recommendations that compete for attention.</p><p>From the moment I installed Homebrew, I was hooked. Recently, I discovered Homebrew Cask, which has brought a new level of sophistication, ease, and efficiency to installing and managing GUI-based macOS applications like Postman and Mozilla.</p><p>However, one issue that remained was with regards to the AppStore. Unfortunately, there are several applications that could only be acquired exclusively through it, and thus cannot be replaced.</p><p>Fortunately, I discovered the mas-cli package, which can be located and installed using brew. This is the ideal solution for interacting with the AppStore.</p><p>While I won’t provide an exhaustive list of commands, there are a few worth mentioning.</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs zsh">$ mas list<br>1619602800  Sticky Notes  (1.0.5)<br>1508833245  Floating      (44)<br></code></pre></td></tr></table></figure><p>Just look for way you could install app now</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs zsh">$ mas lucky twitter<br>==&gt; Downloading Twitter<br>==&gt; Installed Twitter<br></code></pre></td></tr></table></figure><p>Or keep all applications up-to-date</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs zsh">$ mas upgrade<br>Upgrading 2 outdated applications:<br>Xcode (7.0), Screens VNC (3.6.7)<br>==&gt; Downloading Xcode<br>==&gt; Installed Xcode<br>==&gt; Downloading iFlicks<br>==&gt; Installed iFlicks<br></code></pre></td></tr></table></figure><p>That’s why I love Unix. Everything could be done with console commands. It’s fast and simple.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;I’m not fond of receiving various types of notifications and badges, especially those related to app updates. They tend to disrupt my foc</summary>
+      
+    
+    
+    
+    <category term="OS X" scheme="http://journal.toropanov.com/categories/OS-X/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>From Intention to Action! Hello World!</title>
+    <link href="http://journal.toropanov.com/2023/the-power-of-habits/"/>
+    <id>http://journal.toropanov.com/2023/the-power-of-habits/</id>
+    <published>2023-06-11T11:10:19.068Z</published>
+    <updated>2023-06-12T07:15:39.517Z</updated>
+    
+    <content type="html"><![CDATA[<p>For the first post on my blog, I am excited to delve into the transformative power of habits.</p><p>Our environment and the people we interact with on a daily basis have a significant impact on us. I firmly believe that those we choose to surround ourselves with should serve as sources of inspiration.</p><p>The quotation of Richard Tirendi says:</p><blockquote><p>If you’re the smartest person in the room, you’re in the wrong room</p></blockquote><p>The notion lingered in my mind, compelling me to ponder deeply. In hindsight, I realize that several significant failures resulted from my tendency to abandon pursuits prematurely or opt for easier routes, influenced by my surroundings.</p><p>Success is not instantaneous; it demands consistent effort and discipline. Habits cultivated over time pave the way to triumph, which necessitates daily hard work and bravery. Eminem once famously said:</p><blockquote><p>Success is the only motherfucking option, failure is not!</p></blockquote><p>After conducting some research on my personal productivity levels, I discovered that mornings are the most conducive time for me to tackle important tasks. Additionally, there are fewer distractions in the morning, which allows me to concentrate more effectively on my top priorities.</p><div class="owl-media owl-image owl-giphy"><img src="https://media.giphy.com/media/GF3mIfPAXhVUSXFtkK/giphy.gif"></div><p>As a result, I have resolved to cultivate a new habit of waking up at 7:30 AM by committing to this routine for 21 consecutive days. Upon completion of this three-week period, I anticipate that early rising will enhance my productivity significantly.</p><p>Robin Sharma’s term “Mind over mattress” aptly characterizes the approach I am taking to boost my productivity.</p><h3 id="What’s-next"><a href="#What’s-next" class="headerlink" title="What’s next?"></a>What’s next?</h3><p>⚡️ While future posts on the blog will be primarily focused on web development and Mac OS tips.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;For the first post on my blog, I am excited to delve into the transformative power of habits.&lt;/p&gt;
+&lt;p&gt;Our environment and the people we in</summary>
+      
+    
+    
+    
+    <category term="Motivation" scheme="http://journal.toropanov.com/categories/Motivation/"/>
+    
+    
+  </entry>
+  
+</feed>
