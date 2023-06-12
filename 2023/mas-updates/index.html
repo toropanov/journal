@@ -11,7 +11,7 @@
   
   <title>
     
-      Invisible way to control OS X Applications 
+      Invisible way to manage OS X Applications 
       
       
     
@@ -126,10 +126,10 @@
 
 <div class="post">
   <h3 class="date">
-    Jun 11, 2023
+    Jun 12, 2023
   </h3>
   <h1>
-    Invisible way to control OS X Applications
+    Invisible way to manage OS X Applications
   </h1>
   <div class="content markdown-body">
     <p>I’m not fond of receiving various types of notifications and badges, especially those related to app updates. They tend to disrupt my focus when I’m working or attending to personal tasks.</p>
@@ -138,13 +138,13 @@
 <p>However, one issue that remained was with regards to the AppStore. Unfortunately, there are several applications that could only be acquired exclusively through it, and thus cannot be replaced.</p>
 <p>Fortunately, I discovered the mas-cli package, which can be located and installed using brew. This is the ideal solution for interacting with the AppStore.</p>
 <p>While I won’t provide an exhaustive list of commands, there are a few worth mentioning.</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ mas list</span><br><span class="line">1619602800  Sticky Notes  (1.0.5)</span><br><span class="line">1508833245  Floating      (44)</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs zsh">$ mas list<br>1619602800  Sticky Notes  (1.0.5)<br>1508833245  Floating      (44)<br></code></pre></td></tr></table></figure>
 
 <p>Just look for way you could install app now</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ mas lucky twitter</span><br><span class="line">==&gt; Downloading Twitter</span><br><span class="line">==&gt; Installed Twitter</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs zsh">$ mas lucky twitter<br>==&gt; Downloading Twitter<br>==&gt; Installed Twitter<br></code></pre></td></tr></table></figure>
 
 <p>Or keep all applications up-to-date</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">$ mas upgrade</span><br><span class="line">Upgrading 2 outdated applications:</span><br><span class="line">Xcode (7.0), Screens VNC (3.6.7)</span><br><span class="line">==&gt; Downloading Xcode</span><br><span class="line">==&gt; Installed Xcode</span><br><span class="line">==&gt; Downloading iFlicks</span><br><span class="line">==&gt; Installed iFlicks</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs zsh">$ mas upgrade<br>Upgrading 2 outdated applications:<br>Xcode (7.0), Screens VNC (3.6.7)<br>==&gt; Downloading Xcode<br>==&gt; Installed Xcode<br>==&gt; Downloading iFlicks<br>==&gt; Installed iFlicks<br></code></pre></td></tr></table></figure>
 
 <p>That’s why I love Unix. Everything could be done with console commands. It’s fast and simple.</p>
 
@@ -158,10 +158,10 @@
 </div>
 
         <div class="footer">
-  <a href="/">
+  <a target="_blank" rel="noopener" href="https://toropanov.com">
     <img
       src="/images/footer_logo.png"
-      alt="Return home"
+      alt="Anton Toropanov"
     >
   </a>
 </div>
