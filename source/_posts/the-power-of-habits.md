@@ -21,7 +21,7 @@ Success is not instantaneous; it demands consistent effort and discipline. Habit
 
 After conducting some research on my personal productivity levels, I discovered that mornings are the most conducive time for me to tackle important tasks. Additionally, there are fewer distractions in the morning, which allows me to concentrate more effectively on my top priorities.
 
-{% owl giphy GF3mIfPAXhVUSXFtkK %}
+![](the-power-of-habits/limits.gif)
 
 As a result, I have resolved to cultivate a new habit of waking up at 7:30 AM by committing to this routine for 21 consecutive days. Upon completion of this three-week period, I anticipate that early rising will enhance my productivity significantly.
 
