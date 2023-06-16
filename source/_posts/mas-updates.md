@@ -1,7 +1,8 @@
 ---
 title: Invisible way to manage OS X Applications
+date: 2023/6/13
 categories:
-- [OS X]
+- OS X
 ---
 
 I'm not fond of receiving various types of notifications and badges, especially those related to app updates. They tend to disrupt my focus when I'm working or attending to personal tasks.

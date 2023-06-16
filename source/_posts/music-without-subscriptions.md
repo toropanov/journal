@@ -1,7 +1,9 @@
 ---
-title: Unrestricted music access without subscription limits
+title: Borderless music experience
+date: 2023/6/16
 categories:
-- [OS X, Services]
+- OS X
+- Services
 ---
 
 There are numerous music streaming services available, but a majority of them require paid subscriptions. I try to get rid of any subscriptions. And I'm also not a fan of storing gigabytes of music files on my laptop or any online storage.

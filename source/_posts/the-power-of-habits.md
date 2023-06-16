@@ -1,7 +1,8 @@
 ---
 title: From Intention to Action! Hello World!
+date: 2023/6/12
 categories:
-- [Motivation]
+- Motivation
 ---
 
 For the first post on my blog, I am excited to delve into the transformative power of habits.
