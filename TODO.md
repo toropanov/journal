@@ -1,0 +1,1 @@
+- [ ] Post image bash script optimizer
