@@ -135,6 +135,8 @@ pre .xml .cdata {
 }
 .post .content img {
   margin: 0 auto;
+  border-radius: 5px;
+  overflow: hidden;
 }
 .post .content p,
 .post .content ul,
