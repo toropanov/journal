@@ -128,9 +128,15 @@ pre .xml .cdata {
   margin: 0 0 30px;
   letter-spacing: 1px;
 }
+
 .post .content {
   text-align: left;
   line-height: 1.8em;
+}
+.post .content img {
+  margin: 0 auto;
+  border-radius: 5px;
+  overflow: hidden;
 }
 .post .content p,
 .post .content ul,
